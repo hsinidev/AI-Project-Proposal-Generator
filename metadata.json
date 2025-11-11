@@ -1,0 +1,5 @@
+{
+  "name": "AI Project Proposal Generator",
+  "description": "A modern web application that generates a structured, basic project proposal based on user-defined goals and inputs, powered by the Gemini AI Model. Features a clean, professional interface with an animated galaxy background.",
+  "requestFramePermissions": []
+}
